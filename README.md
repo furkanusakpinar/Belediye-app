@@ -1,4 +1,4 @@
-# 🏰 Alanya Belediyesi Mobil Uygulaması
+#  Alanya Belediyesi Mobil Uygulaması
 
 <p align="center">
   <img src="./assets/images/belediye.png" width="120" alt="Alanya Belediyesi Logo" />
