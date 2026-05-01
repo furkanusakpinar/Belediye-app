@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>🏛️</h1>
+  <img src="https://img.icons8.com/fluency/200/city-hall.png" width="160" alt="Municipality Logo" />
 </p>
 
 <h1 align="center">Smart City Municipality Platform</h1>
