@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/city-hall.png" width="90" alt="Municipality Logo" />
+  🏛️
 </p>
 
-<h1 align="center">🏛️ Smart City Municipality Platform</h1>
+<h1 align="center">Smart City Municipality Platform</h1>
 
 <p align="center">
   <strong>Comprehensive Digital Infrastructure for Modern Urban Governance</strong><br />
