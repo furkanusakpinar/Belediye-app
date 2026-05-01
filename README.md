@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size: 100px;">🏛️</span>
+  <h1>🏛️</h1>
 </p>
 
 <h1 align="center">Smart City Municipality Platform</h1>
@@ -57,12 +57,17 @@
 
 <h2 align="center">🚀 Step-by-Step Installation</h2>
 
-<p align="center">
-  <b>1. Clone the Repository</b>
-</p>
+<p align="center"><b>Run the following commands in your terminal:</b></p>
 
 ```bash
+# Clone the repository
 git clone https://github.com/furkanusakpinar/Belediye-mobile-app.git
+
+# Navigate to project folder
 cd Belediye-mobile-app
+
+# Install dependencies
 npm install
+
+# Start the application
 npx expo start
