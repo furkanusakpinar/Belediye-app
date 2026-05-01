@@ -1,4 +1,4 @@
-# 🏢 Best Emlak - Lüks Gayrimenkul Platformu
+# 🏢 Emlak - Lüks Gayrimenkul Platformu
 
 <p align="center">
   <strong>Hayallerinizdeki Lüks Yaşama Açılan Kapı</strong><br />
