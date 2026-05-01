@@ -1,5 +1,5 @@
 <p align="center">
-  🏛️
+  <span style="font-size: 100px;">🏛️</span>
 </p>
 
 <h1 align="center">Smart City Municipality Platform</h1>
@@ -18,54 +18,51 @@
 
 ---
 
-## 📖 Executive Summary
+<h2 align="center">📖 Executive Summary</h2>
 
-This platform is a state-of-the-art mobile solution designed to bridge the gap between local government and citizens. It streamlines municipal operations by providing a unified interface for news, public services, and urban exploration. Built with performance and security in mind, it offers a seamless UX for both residents and tourists.
-
----
-
-## ✨ Core Functionalities
-
-### 🏙️ Citizen Engagement
-- **Live News Feed**: Real-time integration with NewsAPI for localized city updates and emergency alerts.
-- **Official Announcements**: Push notifications for critical municipal statements.
-- **Solution Center**: Direct line for citizens to report issues and track resolutions.
-
-### 💳 Digital Municipality (E-Gov)
-- **Online Payments**: Secure integration for property tax inquiries and utility bill payments.
-- **Service Portals**: One-tap access to zoning plans, marriage applications, and permit requests.
-- **Smart Tracking**: Follow the status of municipal applications in real-time.
-
-### 🏥 Health & Safety
-- **Duty Pharmacies**: Instant location-based list of pharmacies available after hours.
-- **Emergency Hotline**: Integrated directory for ambulance, fire department, and police services.
-
-### 🏰 Tourism & Discovery
-- **Point of Interest (POI)**: Interactive guide to historical landmarks, beaches, and parks.
-- **Visual Gallery**: High-quality imagery showcasing the city's natural and cultural heritage.
+<p align="center">
+  This platform is a state-of-the-art mobile solution designed to bridge the gap between local government and citizens. <br />
+  It streamlines municipal operations by providing a unified interface for news, public services, and urban exploration. <br />
+  Built with performance and security in mind, it offers a seamless UX for both residents and tourists.
+</p>
 
 ---
 
-## 🛠️ Technical Architecture
+<h2 align="center">✨ Core Functionalities</h2>
 
-### Tech Stack
-- **Frontend**: [React Native](https://reactnative.dev/) with [Expo SDK](https://expo.dev/)
-- **State Management**: React Context & Hooks
-- **Data Persistence**: [Firebase Realtime Database](https://firebase.google.com/docs/database)
-- **Authentication**: [Firebase Auth](https://firebase.google.com/docs/auth)
-- **Navigation**: [Expo Router](https://docs.expo.dev/router/introduction/) (Next.js-style file-based routing)
-- **Styling**: Performance-optimized `StyleSheet` with a custom Dark Theme.
+<p align="center">
+  🏙️ <b>Citizen Engagement</b><br />
+  Real-time news integration and emergency alerts.<br /><br />
+  💳 <b>Digital Municipality (E-Gov)</b><br />
+  Online tax payments and official application tracking.<br /><br />
+  🏥 <b>Health & Safety</b><br />
+  Instant access to duty pharmacies and emergency hotlines.<br /><br />
+  🏰 <b>Tourism & Discovery</b><br />
+  Interactive guides to historical landmarks and natural beauties.
+</p>
 
-### Project Structure
-```text
-├── app/               # Expo Router pages & layouts
-├── assets/            # High-resolution branding & UI assets
-├── components/        # Atomic & composite UI components
-├── constants/         # Theme configurations & global data
-├── hooks/             # Custom React hooks
-└── services/          # API & Firebase service layers
+---
 
+<h2 align="center">🛠️ Technical Architecture</h2>
+
+<p align="center">
+  <b>Frontend:</b> React Native with Expo SDK<br />
+  <b>Data Persistence:</b> Firebase Realtime Database<br />
+  <b>Authentication:</b> Firebase Auth<br />
+  <b>Navigation:</b> Expo Router (File-based routing)<br />
+  <b>Styling:</b> Performance-optimized StyleSheet with Dark Theme
+</p>
+
+---
+
+<h2 align="center">🚀 Step-by-Step Installation</h2>
+
+<p align="center">
+  <b>1. Clone the Repository</b>
+</p>
 
 ```bash
 git clone https://github.com/furkanusakpinar/Belediye-mobile-app.git
 cd Belediye-mobile-app
+npm install
+npx expo start
